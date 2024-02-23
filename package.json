@@ -1,0 +1,14 @@
+{
+    "name": "graphql-docker-demo",
+    "version": "1.0.0",
+    "description": "A simple GraphQL API in Docker",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "apollo-server": "^3.0.0",
+      "graphql": "^15.0.0"
+    }
+  }
+  
